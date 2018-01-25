@@ -14,13 +14,13 @@ class Settings:
         self.path = path
         self.check_folders()
         self.default_settings = {
-            "TOKEN": None,
+            "TOKEN": NDA2MTk4NjE3Mjg4ODY3ODUw.DUvg5w.z5z-Pk4L8_zUf6xQ5OSIWNnjqbQ,
             "EMAIL": None,
             "PASSWORD": None,
             "OWNER": None,
-            "PREFIXES": [],
-            "default": {"ADMIN_ROLE": "Transistor",
-                        "MOD_ROLE": "Process",
+            "PREFIXES": -,
+            "default": {"ADMIN_ROLE": "Administrator",
+                        "MOD_ROLE": "",
                         "PREFIXES": []}
                         }
         self._memory_only = False
